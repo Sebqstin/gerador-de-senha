@@ -32,7 +32,7 @@ body {
     
     justify-content: space-around;
     
-    color: var(-rosa);
+    color: var(--rosa);
     
     }
     
@@ -54,7 +54,7 @@ body {
     
     .conteudo-senha {
     
-    background-color: var(-azul-claro);
+    background-color: var(--azul-claro);
     
     padding: 20px;
     
@@ -83,11 +83,11 @@ body {
 
         font-size: 25px;
         
-        font-family: var(-fonte-titulo);
+        font-family: var(--fonte-titulo);
         
         font-size: 25px;
         
-        color: var(-verde);
+        color: var(--verde);
         
         }
         
@@ -103,7 +103,7 @@ body {
         
         .barra {
         
-        background-color: var(-azul-claro); height: 30px;
+        background-color: var(--azul-claro); height: 30px;
         
         width: 100%;
         
