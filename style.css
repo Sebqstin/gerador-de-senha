@@ -91,7 +91,7 @@ body {
         
         }
         
-        checkbox {
+        .checkbox {
         
         width: 20px;
         
@@ -101,7 +101,7 @@ body {
         
         }
         
-        barra {
+        .barra {
         
         background-color: var(-azul-claro); height: 30px;
         
@@ -109,7 +109,7 @@ body {
         
         }
         
-        fraca {
+        .fraca {
         
         width: 25%;
         
@@ -123,7 +123,7 @@ body {
         
         }
         
-        media {
+        .media {
         
         background-color: yellow;
         
@@ -139,7 +139,7 @@ body {
         
         }
         
-        forca {
+        .forca {
         
         height: 30px;
         
