@@ -20,7 +20,7 @@ body {
     
     .conteudo-titulo {
     
-    font-family: var(-fonte-titulo);
+    font-family: var(--fonte-titulo);
     
     text-align: center;
     
