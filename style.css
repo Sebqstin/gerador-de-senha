@@ -28,7 +28,6 @@ body {
     background-color: var(--azul-claro);
     padding: 8px;
     width: 300px;
-    font-family: var(--fonte-titulo);
     border: none;
     font-size: 25px;
 }
